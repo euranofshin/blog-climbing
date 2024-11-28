@@ -1,4 +1,4 @@
-title: Long Haul
+title: Shortie Data
 description: Long Form Jekyll theme built with SASS
 
 url: https://long-haul.netlify.app
@@ -18,6 +18,17 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
 
+# One pitch at a time
+# Pitch by pitch
+# data to beta
+# More than a grade
+# The Crux of the Matter
+# The [] Crux
+# Chalk it up (to data?)
+# Gradient Ascent
+# Computable Crux
+#
+# Climbing words: crux, pump, chalk, exposure
 navigation:
     - title: Home
       url: /index.html
@@ -38,4 +49,4 @@ social:
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: euranofshin

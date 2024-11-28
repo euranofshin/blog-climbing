@@ -148,6 +148,18 @@ MENU STYLING
 	display: none;
 }
 
+/***************
+ABOUT STYLING
+***************/
+.profile-image {
+    display: block; /* Ensures it acts like a block element */
+    margin: 0 auto; /* Centers the image horizontally */
+    width: 400px; /* Controls the size */
+    height: 400px; /* Matches width to keep it circular */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image fits within the circle */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow */
+}
 
 /***************
 POST STYLING
@@ -207,6 +219,11 @@ POST STYLING
 			transform-origin: bottom left;
 		}
 	}
+}
+
+.figure {
+    display: block; /* Ensures it acts like a block element */
+    margin: 0 auto; /* Centers the image horizontally */
 }
 
 

@@ -24,10 +24,16 @@ $silver: #ddd;
 $grey:   #aaa;
 $black:  #111;
 
+// Custom
+$pink: #d94396;
+$wheat: #f58311;
+$calmblue: #b4cbe0;
+// ba731c
+
 // Color variables
-$primary-color: seagreen;
-$secondary-color: #233E5B;
-$tertiary-color: #aaa;
+$primary-color: $pink;
+$secondary-color: $wheat;
+$tertiary-color: $calmblue;
 $link-color: $primary-color;
 $background-color: $primary-color;
 

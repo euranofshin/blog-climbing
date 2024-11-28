@@ -1,24 +1,20 @@
 ---
 layout: default
-title: About Long Haul
+title: About More than a Grade
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">Hi, I'm Eura</h1>
+	<img class="profile-image" src="{{ '/assets/img/me.png' | relative_url }}" alt="me" width=500px>
+	<p class="intro">I'm a compsci PhD student by day and... still a student by night. But on the weekends, you can find me at Rumney.</p>
+	<p>
+    This blog is an exploration of <b>rock climbing</b> and <b>data</b>, two large enough parts of my life that their combination was an inevitability.
+    </p>
+	<h3>Guiding Principles from Data Feminism</h3>
 	<ul>
-		<li>Built with the <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a> plugin</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+        <li>Locality; focus on data from Rumney only, where I know what's going on. Maybe someday I'll post about the red, where I'm from... </li>
+        <li>Gender differentials; this is not because feminism restricts power differentials that manifest in this way, but simply because it is a salient part of my experience as a woman climber. Mention privelege hazard...</li>
+        <li>Conversations</li>
+        <li>This blog is a living document.</li>
   	</ul>
 </div>
