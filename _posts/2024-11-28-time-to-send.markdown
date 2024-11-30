@@ -77,10 +77,8 @@ Not all routes are shown for each grade, because I only visualized those that ha
 
 ### Gender differences in time to send
 Since our metrics proxy the difficulty of a climb, a natural question to ask is whether the above trends change when we separately consider gender.
-The purpose of this exploration is two fold. First, I want to offer a practical resource for shorter climbers out there to identify what route might work best for their body type. Second, as will be a theme in this blog, I want to [document and validate the experiences of woman climbers]() with the goal of opening up discussions surrounding the current range of experiences in climbing. 
+To answer this question, we will user MP's self-reported gender categories.
 
-#### Are there gender differences?
-We are using MP's self-reported gender categories.
 Before we dive in, a disclaimer: while the full dataset has 2,498 unique users, only 900 have their gender listed in their profile. 
 Perhaps true to real life, the gender distribution is imbalanced; men make up about 75% of the total users and ticks. Unfortunately, there is so little data available for the genderqueer category (only one tick!) that it made sense to exclude from the analysis. 
 

@@ -32,8 +32,8 @@ paginate: 5
 navigation:
     - title: Home
       url: /index.html
-    - title: All Posts
-      url: /all
+        #    - title: All Posts
+        #      url: /all
     - title: About
       url: /about
     - title: Contact
