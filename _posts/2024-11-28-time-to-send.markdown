@@ -22,7 +22,7 @@ Thoughout this article, I analyze the routes at Rumney using two summary statist
 The first metric-- proportion of users that flash-- gives us insight into which routes are the hardest to get first try, perhaps due to cryptic beta or a hidden, reachy move (cough: Underdog is the *least flashed* 5. 10a, with only 63% of people who get on it able to flash or onsight. Perhaps due to a certain hidden jug?). 
 For the purpose of this analysis, I don't differentiate between a flash and onsight.
 
-This metric is straightforwardly computed by diving the number of users who flashed $$N_\mathrm{flash}$$ or onsighted a project $$N_\mathrm{onsight}$$, by the total number of users $$N_\mathrm{total}$$:
+This metric is straightforwardly computed by dividing the number of users who flashed $$N_\mathrm{flash}$$ or onsighted a project $$N_\mathrm{onsight}$$, by the total number of users $$N_\mathrm{total}$$:
 
 $$\mathrm{prop\_flash}(\mathrm{route}) = \frac{N_\mathrm{flash} + N_\mathrm{onsight}}{N_\mathrm{total}}$$
 
