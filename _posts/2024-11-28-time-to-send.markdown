@@ -46,7 +46,7 @@ The second version's interpretation is the route's *projecting* difficulty; of t
 Note that there are several ways in which this metric is lacking. Keep these in mind as you interpret the results: 
 * I don't put restrictions on time between attempts. Someone who gets on a route every day for an entire week straight will look the same as someone who gets on a route once a year over five years. While we want to capture the former case, we don't prevent the latter. As a result, routes may appear artificially more difficult than they are; the person who sends after five sessions over five years may have taken so long simply because they forgot the beta in between.
 * People are not always projecting the route. For example, I am rarely projecting 5. 10s these days but have the unfortunate habit of falling on them frequently in my warm ups. Like with the above point, if people get on routes while still warming up, the route may appear artificially more difficult. 
-* Not everyone uses MP the same way. I track every route that I climb. Some users only record ticks when they send and don't record the "fell/hung" instances in between. (To account for this, I only count it as a flash/onsight if that option was explicitly chosen).   
+* Not everyone uses MP the same way. I track every route that I climb. Some users only record ticks when they send and don't record the "fell/hung" instances in between. To account for this, I only count it as a flash/onsight if that option was explicitly chosen. Furthermore, if a user's first tick is a "redpoint" for a given route (not a flash or onsight), then I exclude that tick from the analysis, since it is likely indication that they don't use MP the way we expect. 
 
 
 ### Most difficult to flash and send at each grade
@@ -139,7 +139,8 @@ When the above quantity is positive, that means a higher proportion of women fla
 If *either* of the quantities are near "0," that means it's equal for men and women.
 Below, I order the plots so that the relatively more approachable routes for women are on the left. 
 
-Sadly, when we break down a specific route's ticks by gender, there are *very few* instances of women that remain, especially as the grades become harder and fewer people climb the routes overall. I put a "*" to denote routes where there were *at least three woman users.* Basically, interpret the star-less bars with more caution. Routes that had no ticks from women in my dataset are not plotted. 
+Sadly, when we break down a specific route's ticks by gender, there are *very few* instances of women that remain, especially as the grades become harder and fewer people climb the routes overall.
+I put a "\*" to denote routes where there were *at least three woman users.* Basically, interpret the star-less bars with more caution. Routes that had no ticks from women in my dataset are not plotted. 
 
 When interpreting the plots below, keep in mind the difference between the *relative* ease and *absolute* ease of a route.
 Knowing which routes are quicker for women to send then men doesn't necessarily mean that the route is quick to send in general. 
