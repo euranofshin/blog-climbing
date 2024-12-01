@@ -22,9 +22,9 @@ Thoughout this article, I analyze the routes at Rumney using two summary statist
 The first metric-- proportion of users that flash-- gives us insight into which routes are the hardest to get first try, perhaps due to cryptic beta or a hidden, reachy move (cough: Underdog is the *least flashed* 5. 10a, with only 63% of people who get on it able to flash or onsight. Perhaps due to a certain hidden jug?). 
 For the purpose of this analysis, I don't differentiate between a flash and onsight.
 
-This metric is straightforwardly computed by dividing the number of users who flashed $$N_\mathrm{flash}$$ or onsighted a project $$N_\mathrm{onsight}$$, by the total number of users $$N_\mathrm{total}$$:
+This metric is straightforwardly computed by dividing the number of users who flashed or onsighted a route, by the total number of users:
 
-$$\mathrm{prop\_flash}(\mathrm{route}) = \frac{N_\mathrm{flash} + N_\mathrm{onsight}}{N_\mathrm{total}}$$
+$$\mathrm{prop\_flash}(\mathrm{route}) = \frac{N_\mathrm{flash\ route} + N_\mathrm{onsight\ route}}{N_\mathrm{total\ route}}$$
 
 
 
@@ -98,13 +98,12 @@ For example, that tiny blip of a route at ~30 sessions is actually from one user
 
 
 To allow ourselves to interpret the spread of difficulties much easier, I took the log of the `num_sessions` metric (plotted on the right). 
-If you squint closely enough at this graph, you might get the sense that it is somewhat bimodal; there appears to be a small peak around -2.5 (translates to 0.08 sessions) and another around -1.5 (translates to 0.22 sessions).
 
 <img src="{{ '/assets/img/time-to-send/sessions_histogram.png' | relative_url }}" alt="me" width=325px> 
 <img src="{{ '/assets/img/time-to-send/log_sessions_histogram.png' | relative_url }}" alt="me" width=325px> 
 
 
-Remarkably, when we color code the plot by gender, we see that it splits almost perfectly into two distributions! The average number of sessions to send for men is lower than women by about 0.6 sessions, which means women require almost one full additional attempt. 
+Remarkably, when we color code the plot by gender, we see that it splits into two very distinct distributions! The average number of sessions to send for men is lower than women by about 0.6 sessions, which means women require almost one full additional attempt. 
 
 <img src="{{ '/assets/img/time-to-send/log_sessions_histogram_by_gender.png' | relative_url }}" alt="me" width=400px class="figure"> 
 
