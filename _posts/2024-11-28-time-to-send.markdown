@@ -55,7 +55,11 @@ Note: if you are a woman or shorter climber, you may also be interested in the n
 
 **About the data.** This dataset contains the entire tick history for 2,498 users on Mountain Project. I obtained these users by looking at the ~250 most recent ticks from all the classic climbs at Rumney. While the dataset is large, it does not cover the entire climber base at Rumney. I might write a post summarizing some of its statistics in the future.     
 
-Not all routes are shown for each grade, because I only visualized those that had at least five users who had climbed them in the data.  
+Not all routes are shown for each grade, because I only visualized those that had at least five users who had climbed them in the data. 
+
+Some of prop_flash values seem abnormally high (for example, about 70% of users flash Clusterphobia), which could indicate that this route is over-represents stronger climbers.
+The people who are intense enough to religiously tick MP may be commited enough to climbing that they are more likely to flash than your average climber.
+
 
 | Grade | Ordered by num_sessions_worked   | Ordered by prop_flash |
 | -------- | ------- | ------- |
@@ -185,3 +189,6 @@ However, if we look at the corresponding plot of absolute difficulty, Easily Aro
 | 5.12c | <img src="{{ '/assets/img/time-to-send/flash-by-gender-5.12c.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-women-5.12c.png' | relative_url }}" alt="me" width=300px> |
 | 5.12d | <img src="{{ '/assets/img/time-to-send/flash-by-gender-5.12d.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-women-5.12d.png' | relative_url }}" alt="me" width=300px> |
 
+#### Acknowledgements
+* Thanks Nowell to the discussion about how high the prop_flash is, and whether the dataset is biased toward stronger climbers
+* Thanks [insert beta readers] for taking the time to beta read this blog
