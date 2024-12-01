@@ -57,8 +57,10 @@ Note: if you are a woman or shorter climber, you may also be interested in the n
 
 Not all routes are shown for each grade, because I only visualized those that had at least five users who had climbed them in the data. 
 
-Some of prop_flash values seem abnormally high (for example, about 70% of users flash Clusterphobia), which could indicate that this route is over-represents stronger climbers.
-The people who are intense enough to religiously tick MP may be commited enough to climbing that they are more likely to flash than your average climber.
+Some of the prop_flash values seem abnormally high. 
+For example, 70% of people who hop on Clusterphobia send it first go, which seems a bit high for a 5.10d at an overall moderate wall. 
+We can't know for sure whether this number is higher than it should be, but it's possible that the entire dataset is skewed toward stronger climbers.
+Those who are intense enough to diligently tick MP may be stronger overall than your average climber.
 
 
 | Grade | Ordered by num_sessions_worked   | Ordered by prop_flash |
