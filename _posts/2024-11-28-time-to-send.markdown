@@ -55,7 +55,7 @@ Note: if you are a woman or shorter climber, you may also be interested in the n
 
 **About the data.** This dataset contains the entire tick history for 2,498 users on Mountain Project. I obtained these users by looking at the ~250 most recent ticks from all the classic climbs at Rumney. While the dataset is large, it does not cover the entire climber base at Rumney. I might write a post summarizing some of its statistics in the future.     
 
-Not all routes are shown for each grade, because I only visualized those that had at least five users who had climbed them in the data. 
+Not all routes are shown for each grade, because I only visualized those that had at least five users who had climbed them in the data. Because they are somewhat rare, I excluded plus-grades. Email me if you want those, and I'd be happy to share! 
 
 Some of the prop_flash values seem abnormally high. 
 For example, 70% of people who hop on Clusterphobia send it first go, which seems a bit high for a 5.10d at an overall moderate wall. 
