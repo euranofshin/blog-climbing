@@ -1,7 +1,7 @@
 title: Shortie Data
-description: Long Form Jekyll theme built with SASS
+description: A blog on data and climbing
 
-url: https://long-haul.netlify.app
+url: https://euranofshin.github.io/shortiedata/
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
