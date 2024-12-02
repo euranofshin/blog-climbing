@@ -20,7 +20,7 @@ title: About Shortie Data
     <p>
     A major theme in this blog is exploring the extent to which gender differences in climbing are evident in the data.  
     The goal of this exploration is two-fold.  
-    First, I want to offer a practical resource for shorter climbers out there to gain some practical, data-driven insights. 
+    First, I want to offer a practical resource for shorter climbers out there to gain some data-driven insights. 
     Second, I want to document and validate the experiences of woman climbers, with the goal of opening up discussions surrounding the current range of experiences in climbing and what we hope to accomplish as a community. 
 
 
