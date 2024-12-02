@@ -191,5 +191,5 @@ However, if we look at the corresponding plot of absolute difficulty, Easily Aro
 | 5.12d | <img src="{{ '/assets/img/time-to-send/flash-by-gender-5.12d.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-women-5.12d.png' | relative_url }}" alt="me" width=300px> |
 
 #### Acknowledgements
-* Thanks Nowell to the discussion about how high the prop_flash is, and whether the dataset is biased toward stronger climbers
-* Thanks [insert beta readers] for taking the time to beta read this blog
+* Thanks Nowell for your attention to detail and the discussion about how high the prop_flash is, and whether the dataset is biased toward stronger climbers
+* Thanks to my beta readers, Nowell, Noreen, Logan, Tammy, Angie, Isaac, Walter, and Jill for the feedback and hype!
