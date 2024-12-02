@@ -37,7 +37,7 @@ title: About Shortie Data
     </p>
 	<ul>
         <li><b>Locality</b>. I restrict my analysis to Rumney, an area that I climb often enough at to understand the local norms and ethics, to avoid being a <a href="https://data-feminism.mitpress.mit.edu/pub/2wu7aft8#strangers-in-the-dataset">stranger in the dataset</a>.</li>
-        <li><b>Exploration of gender differentials.</b> This focus is not because data feminism is restricted to gendered power differentials, but simply because it is a salient part of my experience as a woman climber. 
+        <li><b>Focus on gender differentials.</b> This focus is <i>not</i> because data feminism is restricted to gendered power differentials, but simply because it is a salient part of my experience as a woman climber. 
         There are several more power differentials that exist in climbing which I don't expect to report on, but should still be acknowledged. 
         For example, the relationship between those who develop, visit, and climb on the rock for recreation, and those who live in towns where the rock is located or have histories and relationships with the rock beyond climbing. </li>
         <li><b>This data (and analysis) is not objective.</b> I really like the phrase that data is "<a href='https://www.thenewatlantis.com/publications/why-data-is-never-raw'> cooked, not raw,</a>" possibly because in an alternate life I would have loved to go to cullinary school, but also because it is a great reminder that my chalky little fingers have been all over the data.
