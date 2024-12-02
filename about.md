@@ -12,7 +12,7 @@ title: About Shortie Data
     Here, you'll find a mix of posts that use different ML techniques to analyze MP data, provide code for visualizing your own, and so on...  
     </p>
     <p>
-    Importantly, this is a **living document** with the goal of providing food for thought in the climbing community. 
+    Importantly, this is a <i>living document</i> with the goal of providing food for thought in the climbing community. 
     If you notice unexpected trends / bugs, have constructive feedback, or just want to offer thoughts, drop me a note through the <a>contact</a> page, and you might see your thoughts reflected in the posts.
  
     </p> 
