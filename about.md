@@ -40,10 +40,9 @@ title: About Shortie Data
         <li><b>Focus on gender differentials.</b> This focus is <i>not</i> because data feminism is restricted to gendered power differentials, but simply because it is a salient part of my experience as a woman climber. 
         There are several more power differentials that exist in climbing which I don't expect to report on, but should still be acknowledged. 
         For example, the relationship between those who develop, visit, and climb on the rock for recreation, and those who live in towns where the rock is located or have histories and relationships with the rock beyond climbing. </li>
-        <li><b>This data (and analysis) is not objective.</b> I really like the phrase that data is "<a href='https://www.thenewatlantis.com/publications/why-data-is-never-raw'> cooked, not raw,</a>" possibly because in an alternate life I would have loved to go to cullinary school, but also because it is a great reminder that my chalky little fingers have been all over the data.
+        <li><b>This data (and analysis) is not objective.</b> I really like the phrase that data is "<a href='https://www.thenewatlantis.com/publications/why-data-is-never-raw'> cooked, not raw,</a>" possibly because in an alternate life I would have loved to go to culinary school, but also because it is a great reminder that my chalky little fingers have been all over the data.
         In processing, analyzing, and presenting the data, I made several design decisions that inevitably influence the presented results. 
-        For example, my decision form my dataset from the users who have climbed the list of "classic climbs," a subset of the 606 sport climbs decided by Mountain Project. 
-        This certainly influenced the sample of users included in my set. 
+        For example, my decision form my dataset from the users who have climbed the list of "classic climbs" (a subset of the 606 sport climbs decided by Mountain Project) certainly influenced the sample of users included in my set. 
         Throughout, I will try my best to make my design decisions transparent and provide warnings in interpreting the results.</li>
   	</ul>
 </div>
