@@ -65,6 +65,8 @@ Those who are intense enough to diligently tick MP may be stronger overall than 
 
 | Grade | Ordered by num_sessions_worked   | Ordered by prop_flash |
 | -------- | ------- | ------- |
+| 5.6 |<img src="{{ '/assets/img/time-to-send/sessions-5.6.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-5.6.png' | relative_url }}" alt="me" width=300px> |
+| 5.7 |<img src="{{ '/assets/img/time-to-send/sessions-5.7.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-5.7.png' | relative_url }}" alt="me" width=300px> |
 | 5.8 |<img src="{{ '/assets/img/time-to-send/sessions-5.8.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-5.8.png' | relative_url }}" alt="me" width=300px> |
 | 5.9 |<img src="{{ '/assets/img/time-to-send/sessions-5.9.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-5.9.png' | relative_url }}" alt="me" width=300px> |
 | 5.10a |<img src="{{ '/assets/img/time-to-send/sessions-5.10a.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-5.10a.png' | relative_url }}" alt="me" width=300px> |
@@ -155,6 +157,7 @@ However, if we look at the corresponding plot of absolute difficulty, Easily Aro
 
 | Grade | *Relative* num_sessions_worked for women | *Absolute* num_sessions_worked for women |
 | -------- | ------- | ------- |
+| 5.7 |<img src="{{ '/assets/img/time-to-send/sessions-by-gender-5.7.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/sessions-women-5.7.png' | relative_url }}" alt="me" width=300px> |
 | 5.8 |<img src="{{ '/assets/img/time-to-send/sessions-by-gender-5.8.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/sessions-women-5.8.png' | relative_url }}" alt="me" width=300px> |
 | 5.9 |<img src="{{ '/assets/img/time-to-send/sessions-by-gender-5.9.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/sessions-women-5.9.png' | relative_url }}" alt="me" width=300px> |
 | 5.10a |<img src="{{ '/assets/img/time-to-send/sessions-by-gender-5.10a.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/sessions-women-5.10a.png' | relative_url }}" alt="me" width=300px> |
@@ -175,6 +178,8 @@ However, if we look at the corresponding plot of absolute difficulty, Easily Aro
 
 | Grade | *Absolute* prop_flash for women | *Relative* prop_flash for women|
 | -------- | ------- | ------- |
+| 5.6 | <img src="{{ '/assets/img/time-to-send/flash-by-gender-5.6.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-women-5.6.png' | relative_url }}" alt="me" width=300px> |
+| 5.7 | <img src="{{ '/assets/img/time-to-send/flash-by-gender-5.7.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-women-5.7.png' | relative_url }}" alt="me" width=300px> |
 | 5.8 | <img src="{{ '/assets/img/time-to-send/flash-by-gender-5.8.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-women-5.8.png' | relative_url }}" alt="me" width=300px> |
 | 5.9 | <img src="{{ '/assets/img/time-to-send/flash-by-gender-5.9.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-women-5.9.png' | relative_url }}" alt="me" width=300px> |
 | 5.10a | <img src="{{ '/assets/img/time-to-send/flash-by-gender-5.10a.png' | relative_url }}" alt="me" width=300px> | <img src="{{ '/assets/img/time-to-send/flash-women-5.10a.png' | relative_url }}" alt="me" width=300px> |
